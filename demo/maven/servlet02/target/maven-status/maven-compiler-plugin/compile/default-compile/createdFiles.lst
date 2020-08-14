@@ -1,0 +1,5 @@
+com\small\servlet\GetInit.class
+com\small\servlet\DispatcherServlet.class
+com\small\servlet\GetServlet.class
+com\small\servlet\SetServlet.class
+com\small\servlet\PropertiesServlet.class
