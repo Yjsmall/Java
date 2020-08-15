@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.small.dao.UserDao">
+
+
+    <select id="selectUserById"  resultType="user">
+        select id,name,pwd from user where id=#{UserId}
+    </select>
+
+    <select id="selectMulitParam" resultType="user">
+        select * from user where name=#{myname} or pwd=#{mypwd}
+    </select>
+
+    <select id="selectUserReturnViewUser" resultType="vuser">
+        select * from user where id=#{uid}
+    </select>
+    
+    <select id="countUser" resultType="int">
+        select count(*) from user 
+    </select>
+
+
+    <!--返回Map
+        1. 列名是map的key,列值是map的value
+        只能返回一个行数据
+    -->
+    <select id="selectMapById" resultType="map">
+        select * from user where id=#{uid}
+    </select>
+
+
+    <!--定义resultMap
+        id:自定义名称,表示你定义的这个resultMap
+        type:java类型的全限定名称
+    -->
+    <resultMap id="userMap" type="com.small.domain.User">
+        <!--列名和java属性关系-->
+        <!--注解列,使用id标签
+            column:列名
+            property:java类型的属性名
+        -->
+        <!--主键列-->
+        <id column="id" property="id"/>
+        <!--非主键列,使用result-->
+        <result column="name" property="name"/>
+        <result column="pwd" property="pwd"/>
+    </resultMap>
+
+    <select id="selectAllUser" resultMap="userMap">
+        select * from user
+    </select>
+
+    <!--1. 列名和属性名不一样-->
+    <resultMap id="myUser" type="com.small.domain.MyUser">
+        <id column="id" property="myId"/>
+        <result column="name" property="myName"/>
+        <result column="pwd" property="myPwd"/>
+    </resultMap>
+    <select id="selectMyUser" resultMap="myUser">
+        select * from user
+    </select>
+
+    <!--2.第二种方式-->
+    <select id="selectDiffColProperty" resultType="com.small.domain.MyUser">
+        select id as myId,name as myName,pwd as myPwd from user
+    </select>
+
+    <!--1.模糊查询,推荐-->
+    <select id="selectLikeOne" resultType="com.small.domain.User">
+        select * from user where name like #{name}
+    </select>
+
+    <!--2.模糊查询-->
+    <select id="selectLikeTwo" resultType="com.small.domain.User">
+        select * from user where name like "%" #{name} "%"
+    </select>
+</mapper>

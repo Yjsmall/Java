@@ -4,7 +4,52 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c1a66d3-d2d7-4802-b7a7-3021a4e27d71" name="Default Changelist" comment="" />
+    <list default="true" id="4c1a66d3-d2d7-4802-b7a7-3021a4e27d71" name="Default Changelist" comment="完结">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/smallYJ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/dao/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/utlis/MybatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/vo/QueryParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/resources/mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-04/src/test/java/com/small/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/dao/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/domain/MyUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/utlis/MybatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/vo/QueryParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/vo/ViewUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-05/src/test/java/com/small/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/dao/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/utlis/MybatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/vo/QueryParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/resources/mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-06/src/test/java/com/small/MybatisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/META-INF/mybatis-01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/small/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/small/dao/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/small/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/small/utils/MybatisUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/test-classes/com/small/dao/DaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/test-classes/com/small/dao/InsertTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-01/target/test-classes/com/small/dao/UserDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,21 +82,11 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="girls: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
-      </path>
     </expand>
     <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Mybatis01" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,6 +98,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -73,6 +111,7 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -81,22 +120,27 @@
     <option name="jreName" value="11" />
   </component>
   <component name="ProjectId" id="1fm4MjuFmbS8O41hMDC2Buv5Brx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-03/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-06" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -107,22 +151,9 @@
       <recent name="E:\A_Project\Mybatis\Mybatis01\mybatis-01\target\test-classes\com\small\dao" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MybatisTest.userSelectTest (1)">
-    <configuration name="DaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.small.dao.DaoTest" />
-      <module name="mybatis-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.small.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MybatisTest.insertTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-03" />
+  <component name="RunManager" selected="JUnit.MybatisTest.selectAll">
+    <configuration name="MybatisTest.forTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-06" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.small.*" />
@@ -131,14 +162,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.small" />
       <option name="MAIN_CLASS_NAME" value="com.small.MybatisTest" />
-      <option name="METHOD_NAME" value="insertTest" />
+      <option name="METHOD_NAME" value="forTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MybatisTest.insertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-02" />
+    <configuration name="MybatisTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-06" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.small.*" />
@@ -147,14 +178,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.small" />
       <option name="MAIN_CLASS_NAME" value="com.small.MybatisTest" />
-      <option name="METHOD_NAME" value="insertTest" />
+      <option name="METHOD_NAME" value="selectAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MybatisTest.userSelectTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-03" />
+    <configuration name="MybatisTest.selectForTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-06" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.small.*" />
@@ -163,14 +194,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.small" />
       <option name="MAIN_CLASS_NAME" value="com.small.MybatisTest" />
-      <option name="METHOD_NAME" value="userSelectTest" />
+      <option name="METHOD_NAME" value="selectForTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MybatisTest.userSelectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-02" />
+    <configuration name="MybatisTest.selectForTestTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-06" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.small.*" />
@@ -179,7 +210,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.small" />
       <option name="MAIN_CLASS_NAME" value="com.small.MybatisTest" />
-      <option name="METHOD_NAME" value="userSelectTest" />
+      <option name="METHOD_NAME" value="selectForTestTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.selectUserIf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.small.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.small" />
+      <option name="MAIN_CLASS_NAME" value="com.small.MybatisTest" />
+      <option name="METHOD_NAME" value="selectUserIf" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MybatisTest.userSelectTest (1)" />
-        <item itemvalue="JUnit.MybatisTest.insertTest (1)" />
-        <item itemvalue="JUnit.MybatisTest.userSelectTest" />
-        <item itemvalue="JUnit.MybatisTest.insertTest" />
-        <item itemvalue="Application.DaoTest" />
+        <item itemvalue="JUnit.MybatisTest.selectAll" />
+        <item itemvalue="JUnit.MybatisTest.forTest" />
+        <item itemvalue="JUnit.MybatisTest.selectForTestTwo" />
+        <item itemvalue="JUnit.MybatisTest.selectForTest" />
+        <item itemvalue="JUnit.MybatisTest.selectUserIf" />
       </list>
     </recent_temporary>
   </component>
@@ -211,101 +258,132 @@
       <workItem from="1597234524268" duration="1067000" />
       <workItem from="1597239018416" duration="3156000" />
       <workItem from="1597389099713" duration="13967000" />
+      <workItem from="1597461832035" duration="20793000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="完结" />
+    <option name="LAST_COMMIT_MESSAGE" value="完结" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="261" y="0" key="#Project_Structure" timestamp="1597403294423">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="261" y="0" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597403294423" />
-    <state x="261" y="0" key="#SQL_Dialects" timestamp="1597405631393">
+    <state x="261" y="0" key="#SQL_Dialects" timestamp="1597501640958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="0" key="#SQL_Dialects/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597405631393" />
+    <state x="261" y="0" key="#SQL_Dialects/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501640958" />
     <state x="361" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597401292773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597401292773" />
-    <state x="530" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1597406420184">
+    <state x="530" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1597483379983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="530" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597406420184" />
+    <state x="530" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597483379983" />
+    <state x="292" y="5" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1597488564105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="292" y="5" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597488564105" />
+    <state x="436" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597490400354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597490400354" />
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1597501536518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501536518" />
     <state width="314" height="242" key="DatabaseViewActions_Filter" timestamp="1596810515299">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="314" height="242" key="DatabaseViewActions_Filter/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596810515298" />
-    <state x="2527" y="102" key="FileChooserDialogImpl" timestamp="1596891320810">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="486" y="50" key="FileChooserDialogImpl" timestamp="1597501610860">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="486" y="50" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501610860" />
     <state x="2527" y="102" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891320810" />
-    <state width="1483" height="268" key="GridCell.Tab.0.bottom" timestamp="1597409900390">
+    <state width="1483" height="314" key="GridCell.Tab.0.bottom" timestamp="1597501836359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597409900390" />
+    <state width="1483" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501836359" />
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="268" key="GridCell.Tab.0.center" timestamp="1597409900390">
+    <state width="1483" height="314" key="GridCell.Tab.0.center" timestamp="1597501836359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="268" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597409900390" />
+    <state width="1483" height="314" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501836359" />
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="268" key="GridCell.Tab.0.left" timestamp="1597409900390">
+    <state width="1483" height="314" key="GridCell.Tab.0.left" timestamp="1597501836358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="268" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597409900390" />
+    <state width="1483" height="314" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501836358" />
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="268" key="GridCell.Tab.0.right" timestamp="1597409900390">
+    <state width="1483" height="314" key="GridCell.Tab.0.right" timestamp="1597501836359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="268" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597409900390" />
+    <state width="1483" height="314" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501836359" />
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1596891351212">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1483" height="245" key="GridCell.Tab.1.bottom" timestamp="1597477665919">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1483" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597477665919" />
     <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1596891351212">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1483" height="245" key="GridCell.Tab.1.center" timestamp="1597477665919">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1483" height="245" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597477665919" />
     <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1596891351212">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1483" height="245" key="GridCell.Tab.1.left" timestamp="1597477665919">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1483" height="245" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597477665919" />
     <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1596891351212">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1483" height="245" key="GridCell.Tab.1.right" timestamp="1597477665919">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1483" height="245" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597477665919" />
     <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
     <state width="292" height="593" key="HiddenNamespacesPopup" timestamp="1596810543643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="292" height="593" key="HiddenNamespacesPopup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596810543643" />
-    <state x="100" y="0" key="SettingsEditor" timestamp="1597409119605">
+    <state x="286" y="37" key="NewModule_or_Project.wizard" timestamp="1597489616334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="100" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597409119605" />
+    <state x="286" y="37" key="NewModule_or_Project.wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597489616334" />
+    <state x="100" y="0" key="SettingsEditor" timestamp="1597501621030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501621030" />
+    <state x="419" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1597501661889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="419" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501661889" />
     <state x="598" y="107" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1596810448906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="598" y="107" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596810448906" />
-    <state x="361" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1597389099089">
+    <state x="361" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1597461834425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="193" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597389099089" />
-    <state x="291" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597409826859">
+    <state x="361" y="193" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597461834425" />
+    <state x="291" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597500424133">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="291" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597409826859" />
+    <state x="291" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597500424133" />
     <state x="-5" y="0" width="1536" height="727" key="new project wizard" timestamp="1597408989268">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-5" y="0" width="1536" height="727" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597408989268" />
     <state x="1998" y="60" width="1598" height="727" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891346499" />
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1597403856328">
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1597488635638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597403856328" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597488635638" />
   </component>
 </project>

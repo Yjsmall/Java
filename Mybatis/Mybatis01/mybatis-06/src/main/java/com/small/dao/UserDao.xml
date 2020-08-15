@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.small.dao.UserDao">
+    <!--定义Sql片段-->
+    <sql id="userSql">
+        select * from mybatis.user
+    </sql>
+
+    <select id="selectUserIf" resultType="user">
+        <include refid="userSql"/>
+        where id > 0
+        <if test="name !=null and name !=''">
+            and name = #{name}
+        </if>
+        <if test="id > 2">
+            or id > #{id}
+        </if>
+    </select>
+
+    <!--
+        where: <where><if><if>...</where>
+    -->
+    <select id="selectUserWhere" resultType="user">
+        <include refid="userSql"/>
+        <where>
+            <if test="name !=null and name !=''">
+                name = #{name}
+            </if>
+            <if test="id > 2">
+            <!--会自动消除or,如果没有name比较(where or(自动消除))-->
+                or id > #{id}
+            </if>
+        </where>
+    </select>
+
+    <!--foreach用法一-->
+    <select id="selectForeachOne" resultType="user">
+        <include refid="userSql"/>
+        where id in
+        <foreach collection="list" item="myid" open="(" close=")" separator=",">
+            #{myid}
+        </foreach>
+    </select>
+
+    <select id="selectForeachTwo" resultType="user">
+        select * from mybatis.user where id in
+        <foreach collection="list" item="user" open="(" close=")" separator=",">
+            #{user.id}
+        </foreach>
+    </select>
+
+    <select id="selectAll" resultType="user">
+        <include refid="userSql"/>
+        order by id
+    </select>
+
+</mapper>
