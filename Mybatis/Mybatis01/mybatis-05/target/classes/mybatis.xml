@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <settings>
+        <setting name="logImpl" value="STDOUT_LOGGING"/>
+    </settings>
+
+    <!--自定义别名-->
+    <typeAliases>
+
+        <!--可以指定一个类型一个自定义别名
+            type:自定义别名的全限定名称
+            alias:别名
+         -->
+        <typeAlias type="com.small.domain.User" alias="user"/>
+        <typeAlias type="com.small.vo.ViewUser" alias="vuser"/>
+
+        <!--
+            <package>   name是包名,这个包中所有类,类名就是别名
+            <package name="com.small.domain">
+        -->
+
+    </typeAliases>
+
+    <environments default="mysql">
+        <environment id="mysql">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <!--配置数据库的4个基本信息-->
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url"
+                          value="jdbc:mysql://localhost:3306/mybatis?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF-8"/>
+                <property name="username" value="root"/>
+                <property name="password" value="123456"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+        <mapper resource="com/small/dao/UserDao.xml"/>
+    </mappers>
+</configuration>

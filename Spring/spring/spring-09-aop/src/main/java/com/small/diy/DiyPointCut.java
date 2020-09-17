@@ -1,2 +1,14 @@
-package com.small.diy;public class DiyPointCut {
+package com.small.diy;
+
+/**
+ * @author smallYJ
+ */
+public class DiyPointCut {
+    public void before(){
+        System.out.println("===before===");
+    }
+
+    public void after(){
+        System.out.println("===after===");
+    }
 }

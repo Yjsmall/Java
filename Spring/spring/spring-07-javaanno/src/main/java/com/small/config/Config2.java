@@ -1,2 +1,7 @@
-package com.small.config;public class Config2 {
+package com.small.config;
+
+/**
+ * @author smallYJ
+ */
+public class Config2 {
 }

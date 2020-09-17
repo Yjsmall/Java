@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a132c3b8-d720-4c9b-9718-bc1f82be5da2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Mybatis/Mybatis01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis/Mybatis01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/.idea/spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/.idea/spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/dao/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/dao/UserDaoMysqlImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/dao/UserDaoMysqlImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/java/com/small/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-01-ioc1/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-02-hellospring/src/main/java/com/small/pojo/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-02-hellospring/src/main/java/com/small/pojo/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-02-hellospring/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-02-hellospring/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-02-hellospring/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-02-hellospring/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-03-ioc2/src/main/java/com/small/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-03-ioc2/src/main/java/com/small/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-03-ioc2/src/main/java/com/small/pojo/UserT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-03-ioc2/src/main/java/com/small/pojo/UserT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-03-ioc2/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-03-ioc2/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-03-ioc2/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-03-ioc2/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-04-di/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-04-di/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/java/com/small/pojo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/java/com/small/pojo/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/java/com/small/pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/java/com/small/pojo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/java/com/small/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/java/com/small/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/resources/userbean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/main/resources/userbean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-04-di/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/main/java/com/small/pojo/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/main/java/com/small/pojo/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/main/java/com/small/pojo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/main/java/com/small/pojo/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/main/java/com/small/pojo/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/main/java/com/small/pojo/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-05-Autowired/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/java/com/small/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/java/com/small/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/java/com/small/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/java/com/small/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/java/com/small/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/java/com/small/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/java/com/small/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/java/com/small/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-06-anno/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-07-javaanno/src/main/java/com/small/config/Config2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-07-javaanno/src/main/java/com/small/config/Config2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-07-javaanno/src/main/java/com/small/config/SmallConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-07-javaanno/src/main/java/com/small/config/SmallConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-07-javaanno/src/main/java/com/small/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-07-javaanno/src/main/java/com/small/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-07-javaanno/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-07-javaanno/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo01/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo01/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo01/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo01/Host.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo01/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo01/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo01/Rent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo01/Rent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo02/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo02/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo02/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo02/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo02/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo02/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo02/UserServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo02/UserServiceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo03/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo03/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo03/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo03/Host.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo03/ProxyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo03/ProxyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo03/Rent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo03/Rent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo04/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo04/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo04/ProxyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-08-proxy/src/main/java/com/small/demo04/ProxyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-09-aop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-09-aop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-09-aop/src/main/java/com/small/diy/AnnoPointCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-09-aop/src/main/java/com/small/diy/AnnoPointCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-09-aop/src/main/java/com/small/diy/DiyPointCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-09-aop/src/main/java/com/small/diy/DiyPointCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/spring/spring-09-aop/src/main/java/com/small/log/After.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/spring/spring-09-aop/sr

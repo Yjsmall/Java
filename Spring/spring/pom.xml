@@ -6,7 +6,28 @@
 
     <groupId>com.small</groupId>
     <artifactId>spring</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>spring-01-ioc1</module>
+        <module>spring-02-hellospring</module>
+        <module>spring-03-ioc2</module>
+        <module>spring-04-di</module>
+        <module>spring-05-Autowired</module>
+        <module>spring-06-anno</module>
+        <module>spring-07-javaanno</module>
+        <module>spring-08-proxy</module>
+        <module>spring-09-aop</module>
+        <module>spring-10-mybatis</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
+        <java.version>11</java.version>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
 
     <dependencies>
         <dependency>
@@ -15,6 +36,30 @@
             <version>5.2.8.RELEASE</version>
         </dependency>
     </dependencies>
+
+    <build>
+        <!--配置打包时不过滤非java文件开始 -->
+        <!--说明，在进行模块化开发打jar包时，maven会将非java文件过滤掉， xml,properties配置文件等，但是这些文件又是必需的， 使用此配置可以在打包时将不会过滤这些必需的配置文件。 -->
+        <resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+        <!--配置打包时不过滤非java文件结束 -->
+    </build>
 
 
 </project>

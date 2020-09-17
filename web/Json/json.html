@@ -1,10 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        var jsonObj = {
+            "key1": 12,
+            "key2": "abc",
+            "key3": {
+                "key4": "json套json类型"
+            },
+            "key4": [1, "23", false],
+            "key5": [
+                {
+                    "key1": 551,
+                    "key2": "b"
+                },
+                {
+                    "key3": "234"
+                }
+            ]
+        };
+
+        alert(typeof (jsonObj));
+
+        console.log(jsonObj.key1);
+        console.log(typeof (JSON.stringify(jsonObj)));
+    </script>
 </head>
 <body>
-$END$
+<h1>Json</h1>
+
 </body>
 </html>

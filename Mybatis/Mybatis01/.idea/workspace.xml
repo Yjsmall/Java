@@ -4,51 +4,21 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c1a66d3-d2d7-4802-b7a7-3021a4e27d71" name="Default Changelist" comment="完结">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/smallYJ.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/dao/UserDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/utlis/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/java/com/small/vo/QueryParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/main/resources/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-04/src/test/java/com/small/MybatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/dao/UserDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/domain/MyUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/utlis/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/vo/QueryParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/java/com/small/vo/ViewUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/main/resources/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-05/src/test/java/com/small/MybatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-06/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/dao/UserDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/utlis/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/java/com/small/vo/QueryParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-06/src/main/resources/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-06/src/test/java/com/small/MybatisTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+    <list default="true" id="4c1a66d3-d2d7-4802-b7a7-3021a4e27d71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/spring-01-ioc1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/spring-01-ioc1/src/main/java/com/small/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/spring-01-ioc1/src/main/java/com/small/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/spring-01-ioc1/src/main/java/com/small/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/spring-01-ioc1/src/main/java/com/small/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/spring-01-ioc1/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring/spring/spring.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/META-INF/mybatis-01.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/small/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/small/dao/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/small/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/com/small/utils/MybatisUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/target/test-classes/com/small/dao/DaoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/target/test-classes/com/small/dao/InsertTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-01/target/test-classes/com/small/dao/UserDaoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +51,12 @@
         <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="girls: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -136,7 +112,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-06" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Spring" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -258,8 +234,21 @@
       <workItem from="1597234524268" duration="1067000" />
       <workItem from="1597239018416" duration="3156000" />
       <workItem from="1597389099713" duration="13967000" />
-      <workItem from="1597461832035" duration="20793000" />
+      <workItem from="1597461832035" duration="21139000" />
+      <workItem from="1598867428436" duration="5000" />
+      <workItem from="1599143682745" duration="1073000" />
+      <workItem from="1599146111520" duration="995000" />
+      <workItem from="1599222529768" duration="674000" />
+      <workItem from="1599223469831" duration="21000" />
     </task>
+    <task id="LOCAL-00001" summary="完结">
+      <created>1597501854452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597501854452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,58 +284,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="436" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597490400354" />
-    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1597501536518">
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1597501850315">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501536518" />
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501850315" />
     <state width="314" height="242" key="DatabaseViewActions_Filter" timestamp="1596810515299">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="314" height="242" key="DatabaseViewActions_Filter/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596810515298" />
-    <state x="486" y="50" key="FileChooserDialogImpl" timestamp="1597501610860">
+    <state x="486" y="50" key="FileChooserDialogImpl" timestamp="1599223490501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="486" y="50" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501610860" />
+    <state x="486" y="50" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599223490501" />
     <state x="2527" y="102" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891320810" />
-    <state width="1483" height="314" key="GridCell.Tab.0.bottom" timestamp="1597501836359">
+    <state width="1483" height="245" key="GridCell.Tab.0.bottom" timestamp="1597501989177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501836359" />
+    <state width="1483" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501989177" />
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="314" key="GridCell.Tab.0.center" timestamp="1597501836359">
+    <state width="1483" height="245" key="GridCell.Tab.0.center" timestamp="1597501989177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="314" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501836359" />
+    <state width="1483" height="245" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501989177" />
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="314" key="GridCell.Tab.0.left" timestamp="1597501836358">
+    <state width="1483" height="245" key="GridCell.Tab.0.left" timestamp="1597501989177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="314" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501836358" />
+    <state width="1483" height="245" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501989177" />
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="314" key="GridCell.Tab.0.right" timestamp="1597501836359">
+    <state width="1483" height="245" key="GridCell.Tab.0.right" timestamp="1597501989177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="314" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501836359" />
+    <state width="1483" height="245" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501989177" />
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="245" key="GridCell.Tab.1.bottom" timestamp="1597477665919">
+    <state width="1483" height="245" key="GridCell.Tab.1.bottom" timestamp="1597501989177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597477665919" />
+    <state width="1483" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501989177" />
     <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="245" key="GridCell.Tab.1.center" timestamp="1597477665919">
+    <state width="1483" height="245" key="GridCell.Tab.1.center" timestamp="1597501989177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="245" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597477665919" />
+    <state width="1483" height="245" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501989177" />
     <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="245" key="GridCell.Tab.1.left" timestamp="1597477665919">
+    <state width="1483" height="245" key="GridCell.Tab.1.left" timestamp="1597501989177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="245" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597477665919" />
+    <state width="1483" height="245" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501989177" />
     <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
-    <state width="1483" height="245" key="GridCell.Tab.1.right" timestamp="1597477665919">
+    <state width="1483" height="245" key="GridCell.Tab.1.right" timestamp="1597501989177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="245" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597477665919" />
+    <state width="1483" height="245" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501989177" />
     <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891351212" />
     <state width="292" height="593" key="HiddenNamespacesPopup" timestamp="1596810543643">
       <screen x="0" y="0" width="1536" height="824" />
@@ -368,18 +357,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="598" y="107" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596810448906" />
-    <state x="361" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1597461834425">
+    <state x="361" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1599223471840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="193" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597461834425" />
+    <state x="361" y="193" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599223471840" />
     <state x="291" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597500424133">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="291" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597500424133" />
-    <state x="-5" y="0" width="1536" height="727" key="new project wizard" timestamp="1597408989268">
+    <state x="503" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597501864230">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-5" y="0" width="1536" height="727" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597408989268" />
+    <state x="503" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597501864230" />
+    <state x="-5" y="0" width="1536" height="727" key="new project wizard" timestamp="1599222616032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-5" y="0" width="1536" height="727" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599222616032" />
     <state x="1998" y="60" width="1598" height="727" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596891346499" />
     <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1597488635638">
       <screen x="0" y="0" width="1536" height="824" />
