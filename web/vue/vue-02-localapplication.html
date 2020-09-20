@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>localApplication</title>
+    <script src="vue.js"></script>
+</head>
+<body>
+
+<!--1. v-text 学习-->
+    <div id="app">
+        <h2 v-text="message">西安</h2>
+        <h2 v-text="info">web front</h2>
+        <h2>{{message}}这里可以显示</h2>
+    </div>
+    <script>
+        var app = new Vue({
+            el:"#app",
+            data:{
+                message:"programmer",
+                info:"前端"
+            }
+        })
+    </script>
+
+<!--2. v-html 学习-->
+    <div id="ht">
+        <h1 v-text="context">text---context</h1>
+        <h1 v-html="context">html---context</h1>
+    </div>
+    <script>
+        var appendMode = new Vue({
+            el:"#ht",
+            data:{
+                context:"<a href='http://www.baidu.com'>百度</a>"
+            }
+        })
+    </script>
+
+<!--3. v-on 事件绑定学习&&dom元素的修改-->
+    <div id="on">
+        <input type="button" value="v-on指令" v-on:click="doIt">
+        <input type="button" value="v-on简写" @click="doIt">
+        <input v-on:dbclick="doIt" type="button" value="双击事件">
+        <h2 @click="changeFood">{{food}}</h2>
+    </div>
+    <script>
+        var event = new Vue({
+            el:"#on",
+            data:{
+                food:"fish"
+            },
+            methods:{
+                doIt:function (){
+                    alert("do it");
+                },
+                changeFood:function (){
+                    // console.log(this.food);
+                    this.food += "is delicious"
+                }
+            }
+        })
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>basic type</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+<body>
+    <div id="app">
+        {{message}}
+        <h2>{{school.name}}</h2>
+        <ul>
+            <li> {{ campus[0] }} </li>
+            <li> {{ campus[1] }} </li>
+        </ul>
+    </div>
+    <script>
+        var app = new Vue({
+            el:"#app",
+            data:{
+                message:"hell world",
+                school:{
+                    name:"what",
+                    mobile:"1234"
+                },
+                campus:["1","2"]
+            }
+        });
+
+        app.message = "hell";
+    </script>
+
+</body>
+</html>
